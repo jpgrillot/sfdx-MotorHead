@@ -6,9 +6,9 @@
         <label>Body</label>
     </customValue>
     <customValue>
-        <fullName>Consumable</fullName>
+        <fullName>Routine</fullName>
         <default>false</default>
-        <label>Consumable</label>
+        <label>Routine</label>
     </customValue>
     <customValue>
         <fullName>Detailing</fullName>
@@ -25,7 +25,7 @@
         <default>false</default>
         <label>Mechanical</label>
     </customValue>
-    <description>Universal picklist for Vehicle Work - includes tools, parts, and maintenance</description>
+    <description>Universal picklist for Vehicle Work</description>
     <masterLabel>Vehicle Work Types</masterLabel>
     <sorted>false</sorted>
 </GlobalValueSet>
