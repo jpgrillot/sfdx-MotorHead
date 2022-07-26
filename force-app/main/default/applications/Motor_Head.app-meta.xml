@@ -33,10 +33,10 @@
     <label>Motor Head</label>
     <navType>Standard</navType>
     <tabs>Vehicle__c</tabs>
+    <tabs>Warehouse__c</tabs>
     <tabs>standard-Account</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
-    <tabs>Warehouse__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Motor_Head_UtilityBar</utilityBar>
 </CustomApplication>

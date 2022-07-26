@@ -26,20 +26,8 @@
     <picklistValues>
         <picklist>Type__c</picklist>
         <values>
-            <fullName>Body</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>Detailing</fullName>
             <default>true</default>
-        </values>
-        <values>
-            <fullName>Electrical System</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Interior</fullName>
-            <default>false</default>
         </values>
         <values>
             <fullName>Mechanical System</fullName>

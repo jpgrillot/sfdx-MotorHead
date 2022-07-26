@@ -7,7 +7,7 @@
     <picklistValues>
         <picklist>Status__c</picklist>
         <values>
-            <fullName>Depleted</fullName>
+            <fullName>Installed</fullName>
             <default>false</default>
         </values>
         <values>
@@ -28,10 +28,6 @@
         <values>
             <fullName>Body</fullName>
             <default>false</default>
-        </values>
-        <values>
-            <fullName>Detailing</fullName>
-            <default>true</default>
         </values>
         <values>
             <fullName>Electrical System</fullName>

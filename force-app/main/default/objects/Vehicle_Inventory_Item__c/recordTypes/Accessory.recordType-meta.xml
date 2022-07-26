@@ -11,6 +11,10 @@
             <default>false</default>
         </values>
         <values>
+            <fullName>Installed</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Ordered</fullName>
             <default>false</default>
         </values>
@@ -28,10 +32,6 @@
         <values>
             <fullName>Body</fullName>
             <default>false</default>
-        </values>
-        <values>
-            <fullName>Detailing</fullName>
-            <default>true</default>
         </values>
         <values>
             <fullName>Electrical System</fullName>

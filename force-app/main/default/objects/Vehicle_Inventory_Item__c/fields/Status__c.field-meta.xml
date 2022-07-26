@@ -31,7 +31,7 @@
             <value>
                 <fullName>Installed</fullName>
                 <default>false</default>
-                <label>Stocked</label>
+                <label>Installed</label>
             </value>
             <value>
                 <fullName>Depleted</fullName>
