@@ -1,0 +1,21 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "MotorHead",
+            "versionName": "Version 1.0",
+            "versionNumber": "1.0.0.NEXT"
+        }
+    ],
+    "name": "MotorHead",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "55.0",
+    "packageAliases": {
+        "MotorHead": "0Ho8Z000000KymKSAS",
+        "Motorhead@0.1-1": "04t8Z000000BnYUQA0",
+        "MotorHead@1.0.0-1": "04t8Z000000BnYZQA0",
+        "MotorHead@1.0.0-2": "04t8Z000000BnYeQAK"
+    }
+}
