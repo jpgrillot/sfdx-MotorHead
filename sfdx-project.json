@@ -14,6 +14,8 @@
     "sourceApiVersion": "55.0",
     "packageAliases": {
         "MotorHead": "0Ho8Z000000KymKSAS",
-        "Motorhead@0.1-1": "04t8Z000000BnYUQA0"
+        "Motorhead@0.1-1": "04t8Z000000BnYUQA0",
+        "MotorHead@1.0.0-1": "04t8Z000000BnYZQA0",
+        "MotorHead@1.0.0-2": "04t8Z000000BnYeQAK"
     }
 }
