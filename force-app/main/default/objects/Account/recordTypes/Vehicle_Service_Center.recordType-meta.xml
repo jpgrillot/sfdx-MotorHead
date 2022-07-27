@@ -11,15 +11,7 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>Partner Referral</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>Phone Inquiry</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Purchased List</fullName>
             <default>false</default>
         </values>
         <values>
@@ -195,31 +187,11 @@
     <picklistValues>
         <picklist>Type</picklist>
         <values>
-            <fullName>Channel Partner %2F Reseller</fullName>
+            <fullName>Dealership</fullName>
             <default>false</default>
         </values>
         <values>
-            <fullName>Customer - Channel</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Customer - Direct</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Installation Partner</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Other</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Prospect</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Technology Partner</fullName>
+            <fullName>Service Center</fullName>
             <default>false</default>
         </values>
     </picklistValues>
