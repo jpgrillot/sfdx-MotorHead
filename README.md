@@ -13,7 +13,7 @@ The `sfdx-project.json` file contains useful configuration information for your 
 ## Develop on the Project
 
   * Deploy changes
-  * Assign Permission Set: sfdx force:user:permset:assign -n MotorHeadApp -u sfdx-MotorHead
+  * Assign Permission Set: sfdx force:user:permset:assign -n MotorHeadApp -u sfdxMotorHead
   
 
 ## Read All About It

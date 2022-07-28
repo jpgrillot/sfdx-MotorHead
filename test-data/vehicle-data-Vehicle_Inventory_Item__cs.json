@@ -1,0 +1,73 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Vehicle_Inventory_Item__c",
+                "referenceId": "Vehicle_Inventory_Item__cRef1"
+            },
+            "Name": "Chrome Steps",
+            "Consumable_Quantity_Available__c": null,
+            "Description__c": null,
+            "Estimated_Delivery_Date__c": "2022-01-04",
+            "Manufacturer__c": "Toyota",
+            "Model__c": null,
+            "On_hand_Quantity__c": 0,
+            "Order_Number__c": null,
+            "ProductLink__c": null,
+            "Purchase_Date__c": "2021-12-26",
+            "Purchased_Quantity__c": 1,
+            "Reseller__c": "Fitzgerald Toyota",
+            "Status__c": "Installed",
+            "Total_Price__c": null,
+            "Type__c": "Body",
+            "Unit_Price__c": 999,
+            "Vehicle__c": "@Vehicle__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Vehicle_Inventory_Item__c",
+                "referenceId": "Vehicle_Inventory_Item__cRef2"
+            },
+            "Name": "Bed Step",
+            "Consumable_Quantity_Available__c": null,
+            "Description__c": "Exterior bed step",
+            "Estimated_Delivery_Date__c": "2021-04-20",
+            "Manufacturer__c": "Toyota",
+            "Model__c": "PT392-35100",
+            "On_hand_Quantity__c": 0,
+            "Order_Number__c": "01-06898-10000",
+            "ProductLink__c": null,
+            "Purchase_Date__c": "2021-04-12",
+            "Purchased_Quantity__c": 1,
+            "Reseller__c": "eBay",
+            "Status__c": "Installed",
+            "Total_Price__c": null,
+            "Type__c": "Body",
+            "Unit_Price__c": 212.03,
+            "Vehicle__c": "@Vehicle__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Vehicle_Inventory_Item__c",
+                "referenceId": "Vehicle_Inventory_Item__cRef3"
+            },
+            "Name": "Chrome Exhaust Tip",
+            "Consumable_Quantity_Available__c": null,
+            "Description__c": "Chrome Exhaust Tip",
+            "Estimated_Delivery_Date__c": "2021-04-26",
+            "Manufacturer__c": "Toyota",
+            "Model__c": "PT932-35162",
+            "On_hand_Quantity__c": 0,
+            "Order_Number__c": "01-06898-10000",
+            "ProductLink__c": null,
+            "Purchase_Date__c": "2021-04-12",
+            "Purchased_Quantity__c": 1,
+            "Reseller__c": "eBay",
+            "Status__c": "Installed",
+            "Total_Price__c": 62.39,
+            "Type__c": "Body",
+            "Unit_Price__c": 62.39,
+            "Vehicle__c": "@Vehicle__cRef1"
+        }
+    ]
+}
