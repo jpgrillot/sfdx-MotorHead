@@ -35,10 +35,10 @@
             <targetReference>updateVehicleMaintenance</targetReference>
         </connector>
     </assignments>
-    <description>Flow that will be called to update the Job cost</description>
+    <description>Flow that is called to update the Job cost</description>
     <environments>Default</environments>
-    <interviewLabel>Calculate Job Cost {!$Flow.CurrentDateTime}</interviewLabel>
-    <label>Calculate Job Cost</label>
+    <interviewLabel>Vehicle Maintenance Calculate Cost {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>Vehicle Maintenance Calculate Cost</label>
     <loops>
         <description>Loop through the Job resource records</description>
         <name>loopJobResources</name>

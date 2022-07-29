@@ -41,7 +41,7 @@
         <label>subCalculateJobCost</label>
         <locationX>176</locationX>
         <locationY>335</locationY>
-        <flowName>Calculate_Job_Cost</flowName>
+        <flowName>vehicleMaintenanceCalculateCost</flowName>
         <inputAssignments>
             <name>vVehicleMaintenanceRecordId</name>
             <value>
