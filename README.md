@@ -12,8 +12,13 @@ The `sfdx-project.json` file contains useful configuration information for your 
 
 ## Develop on the Project
 
-  * Deploy changes
+  * Create the Scratch Org
+  * Push the Source to the Scratch Org
   * Assign Permission Set: sfdx force:user:permset:assign -n MotorHeadApp -u sfdxMotorHead
+  * Deploy the Test Data: sfdx force:data:tree:import -u sfdxMotorHead -p test-data/motor-data-plan.json
+  * Run the test-data/test-data-fix.apex file to fix the Test Data issues
+    * Open the apex file, open the command prompt, and search "SFDX: Execute Anonymous Apex with Editor Contents"
+  * Run the Manual steps outlined in scripts/manual/NewOrg.md
   
 
 ## Read All About It

@@ -44,3 +44,19 @@ for(Vehicle_Inventory_Item__c consumable : consumables){
     consumable.RecordTypeId = consumableRecordType;
 }
 update consumables;
+
+//Fix Vehicle_Maintenance__c records
+Id diyRT = Schema.SObjectType.Vehicle_Maintenance__c.getRecordTypeInfosByName().get('DIY').getRecordTypeId();
+Id svcRT = Schema.SObjectType.Vehicle_Maintenance__c.getRecordTypeInfosByName().get('Professional').getRecordTypeId();
+
+List<Vehicle_Maintenance__c> jobs = [SELECT Id, RecordTypeId, Service_Center__c FROM Vehicle_Maintenance__c];
+
+for(Vehicle_Maintenance__c job : jobs){
+    if(job.Service_Center__c != null){
+        job.RecordTypeId = svcRT;
+    }
+    else {
+        job.RecordTypeId = diyRT;
+    }
+}
+update jobs;
