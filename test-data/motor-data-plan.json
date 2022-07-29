@@ -1,0 +1,51 @@
+[
+    {
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "motor-data-Accounts.json"
+        ]
+    },
+    {
+        "sobject": "Warehouse__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "motor-data-Warehouse__cs.json"
+        ]
+    },
+    {
+        "sobject": "Vehicle__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "vehicle-data-Vehicle__cs.json"
+        ]
+    },
+    {
+        "sobject": "Vehicle_Inventory_Item__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "motor-data-Vehicle_Inventory_Item__cs.json",
+            "vehicle-data-Vehicle_Inventory_Item__cs.json"
+        ]
+    },
+    {
+        "sobject": "Vehicle_Maintenance__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "vehicle-data-Vehicle_Maintenance__cs.json"
+        ]
+    },
+    {
+        "sobject": "Job_Resource__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "vehicle-data-Job_Resource__cs.json"
+        ]
+    }
+]

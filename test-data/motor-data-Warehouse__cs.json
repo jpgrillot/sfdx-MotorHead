@@ -1,0 +1,25 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Warehouse__c",
+                "referenceId": "Warehouse__cRef1"
+            },
+            "Name": "Detailing Tools"
+        },
+        {
+            "attributes": {
+                "type": "Warehouse__c",
+                "referenceId": "Warehouse__cRef2"
+            },
+            "Name": "Glass Cleaners"
+        },
+        {
+            "attributes": {
+                "type": "Warehouse__c",
+                "referenceId": "Warehouse__cRef3"
+            },
+            "Name": "Paint Protection"
+        }
+    ]
+}
