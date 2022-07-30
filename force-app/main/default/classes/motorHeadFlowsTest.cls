@@ -21,11 +21,11 @@ public class motorHeadFlowsTest {
         insert testJob;
         
         // Create a Tire record
-        Vehicle_Inventory_Item__c testTire = new Vehicle_Inventory_Item__c(Name='275-55 Tires',Vehicle__c=testSUV.Id, RecordTypeId=Schema.SObjectType.Vehicle_Inventory_Item__c.getRecordTypeInfosByName().get('Part').getRecordTypeId(),Description__c='275/55R19 SUV Tires',Manufacturer__c='Pirelli', Model__c='Scorpion AS Plus',Status__c='Stocked',Unit_Price__c=300.80,Type__c='Mechanical System');
+        Vehicle_Inventory_Item__c testTire = new Vehicle_Inventory_Item__c(Name='275-55 Tires',Vehicle__c=testSUV.Id, RecordTypeId=Schema.SObjectType.Vehicle_Inventory_Item__c.getRecordTypeInfosByName().get('Part').getRecordTypeId(),Description__c='275/55R19 SUV Tires',Manufacturer__c='Pirelli', Model__c='Scorpion AS Plus',Status__c='Stocked',Unit_Price__c=300.80,Type__c='Mechanical System',Purchased_Quantity__c=4);
         insert testTire;
         
         // Create a Wheel record
-        Vehicle_Inventory_Item__c testWheel = new Vehicle_Inventory_Item__c(Name='19" AMG Wheels',Vehicle__c=testSUV.Id, RecordTypeId=Schema.SObjectType.Vehicle_Inventory_Item__c.getRecordTypeInfosByName().get('Part').getRecordTypeId(),Description__c='19" AMG Wheels',Manufacturer__c='AMG', Model__c='Twin 5 Spoke',Status__c='Stocked',Unit_Price__c=750,Type__c='Mechanical System');
+        Vehicle_Inventory_Item__c testWheel = new Vehicle_Inventory_Item__c(Name='19" AMG Wheels',Vehicle__c=testSUV.Id, RecordTypeId=Schema.SObjectType.Vehicle_Inventory_Item__c.getRecordTypeInfosByName().get('Part').getRecordTypeId(),Description__c='19" AMG Wheels',Manufacturer__c='AMG', Model__c='Twin 5 Spoke',Status__c='Stocked',Unit_Price__c=750,Type__c='Mechanical System',Purchased_Quantity__c=4);
         insert testWheel;
         
     }
