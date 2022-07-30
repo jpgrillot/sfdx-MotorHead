@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Purchased_Inventory_should_have_a_Price</fullName>
+    <active>true</active>
+    <description>Inventory not in Researching should have a cost associated</description>
+    <errorConditionFormula>NOT(ISPICKVAL(Status__c,&apos;Researching&apos;)) &amp;&amp; (ISNULL(Unit_Price__c)||ISNULL( Total_Price__c))</errorConditionFormula>
+    <errorMessage>Please enter in cost information if the Item is not being Researched.</errorMessage>
+</ValidationRule>
