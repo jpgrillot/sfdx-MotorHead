@@ -4,8 +4,8 @@
             "path": "force-app",
             "default": true,
             "package": "MotorHead",
-            "versionName": "Version 1.0",
-            "versionNumber": "1.0.0.NEXT"
+            "versionName": "August 22 Release - Experience Improvements",
+            "versionNumber": "1.1.0.NEXT"
         }
     ],
     "name": "MotorHead",
