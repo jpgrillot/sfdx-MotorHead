@@ -38,11 +38,11 @@
             "Order_Number__c": null,
             "ProductLink__c": null,
             "Purchase_Date__c": null,
-            "Purchased_Quantity__c": null,
+            "Purchased_Quantity__c": 1,
             "Reseller__c": "Amazon.com",
             "Status__c": "Stocked",
             "Type__c": "Detailing",
-            "Unit_Price__c": null
+            "Unit_Price__c": 14.99
         },
         {
             "attributes": {
@@ -60,11 +60,11 @@
             "Order_Number__c": null,
             "ProductLink__c": null,
             "Purchase_Date__c": null,
-            "Purchased_Quantity__c": null,
+            "Purchased_Quantity__c": 1,
             "Reseller__c": null,
             "Status__c": "Stocked",
             "Type__c": "Detailing",
-            "Unit_Price__c": null
+            "Unit_Price__c": 4.99
         },
         {
             "attributes": {
@@ -148,11 +148,11 @@
             "Order_Number__c": null,
             "ProductLink__c": null,
             "Purchase_Date__c": null,
-            "Purchased_Quantity__c": null,
+            "Purchased_Quantity__c": 1,
             "Reseller__c": null,
             "Status__c": "Stocked",
             "Type__c": "Detailing",
-            "Unit_Price__c": null
+            "Unit_Price__c": 12.99
         },
         {
             "attributes": {
