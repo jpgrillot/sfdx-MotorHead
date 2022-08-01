@@ -23,9 +23,12 @@ The `sfdx-project.json` file contains useful configuration information for your 
 ### Useful Info
   * This query can help establish whether your flows are covered by your Apex Tests: sfdx force:data:soql:query --query "SELECT Id, ApexTestClassId, TestMethodName, FlowVersionId, NumElementsCovered, NumElementsNotCovered FROM FlowTestCoverage" --usetoolingapi -u sfdxMotorHead  
 
-## Read All About It
+## Deploy the Project
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+  * Update the sfdx-project.json with the Version
+  * Create a new version with Code Coverage:
+  sfdx force:package:version:create -v DevHub -p "MotorHead" -x -w 10 -c
+  * Promote the version: 
+  sfdx force:package:version:promote -p "VERSION"
+  * Install the Package
+  sfdx force:package:install -w 10 --publishwait 10 --package MotorHead@1.1.0-1 --noprompt -u DevHub
