@@ -3,7 +3,7 @@
         {
             "attributes": {
                 "type": "Vehicle_Inventory_Item__c",
-                "referenceId": "Vehicle_Inventory_Item__cRef1"
+                "referenceId": "Vehicle_Inventory_Item__cRef9"
             },
             "Name": "Chrome Steps",
             "Consumable_Quantity_Available__c": null,
@@ -26,7 +26,7 @@
         {
             "attributes": {
                 "type": "Vehicle_Inventory_Item__c",
-                "referenceId": "Vehicle_Inventory_Item__cRef2"
+                "referenceId": "Vehicle_Inventory_Item__cRef10"
             },
             "Name": "Bed Step",
             "Consumable_Quantity_Available__c": null,
@@ -49,7 +49,7 @@
         {
             "attributes": {
                 "type": "Vehicle_Inventory_Item__c",
-                "referenceId": "Vehicle_Inventory_Item__cRef3"
+                "referenceId": "Vehicle_Inventory_Item__cRef11"
             },
             "Name": "Chrome Exhaust Tip",
             "Consumable_Quantity_Available__c": null,

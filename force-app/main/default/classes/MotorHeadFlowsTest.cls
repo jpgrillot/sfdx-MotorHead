@@ -4,7 +4,7 @@
 //	vehicleMaintenanceCalculateFlow - calculates Cost for vehicleMaintenance		//
 //**********************************************************************************//	
 @isTest
-public class motorHeadFlowsTest {
+public class MotorHeadFlowsTest {
     
     // Constants
     // Final Value of the Vehicle Maintenance

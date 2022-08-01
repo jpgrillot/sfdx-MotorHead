@@ -6,7 +6,7 @@
                 "referenceId": "Job_Resource__cRef1"
             },
             "Vehicle_Maintenance__c": "@Vehicle_Maintenance__cRef1",
-            "Inventory_Item__c": "@Vehicle_Inventory_Item__cRef3",
+            "Inventory_Item__c": "@Vehicle_Inventory_Item__cRef9",
             "Required_Quantity__c": 1
         },
         {
@@ -15,7 +15,7 @@
                 "referenceId": "Job_Resource__cRef2"
             },
             "Vehicle_Maintenance__c": "@Vehicle_Maintenance__cRef1",
-            "Inventory_Item__c": "@Vehicle_Inventory_Item__cRef2",
+            "Inventory_Item__c": "@Vehicle_Inventory_Item__cRef10",
             "Required_Quantity__c": 1
         }
     ]
