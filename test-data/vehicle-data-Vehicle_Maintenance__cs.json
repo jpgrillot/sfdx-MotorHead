@@ -1,0 +1,67 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Vehicle_Maintenance__c",
+                "referenceId": "Vehicle_Maintenance__cRef1"
+            },
+            "Name": "Accessory Install",
+            "Vehicle__c": "@Vehicle__cRef1",
+            "Date_Completed__c": "2021-04-17",
+            "Issue__c": "Ordered Bed Step and Exhaust Tip",
+            "Labor__c": null,
+            "Parts__c": null,
+            "Taxes_and_Surcharges__c": null,
+            "Work_Completed__c": "Installed Bed Step and Exhaust Tip",
+            "Work_Type__c": "Body"
+        },
+        {
+            "attributes": {
+                "type": "Vehicle_Maintenance__c",
+                "referenceId": "Vehicle_Maintenance__cRef2"
+            },
+            "Name": "Accessory Install",
+            "Vehicle__c": "@Vehicle__cRef1",
+            "Service_Center__c": "@AccountRef1",
+            "Date_Completed__c": "2021-01-04",
+            "Issue__c": "Dealer owes Chrome Side Steps",
+            "Labor__c": 0,
+            "Parts__c": 0,
+            "Taxes_and_Surcharges__c": 0,
+            "Work_Completed__c": "Installed Side Steps",
+            "Work_Type__c": "Body"
+        },
+        {
+            "attributes": {
+                "type": "Vehicle_Maintenance__c",
+                "referenceId": "Vehicle_Maintenance__cRef3"
+            },
+            "Name": "Vehicle Delivery",
+            "Vehicle__c": "@Vehicle__cRef1",
+            "Service_Center__c": "@AccountRef1",
+            "Date_Completed__c": "2020-12-26",
+            "Issue__c": "Purchased New Vehicle",
+            "Labor__c": 0,
+            "Parts__c": 0,
+            "Taxes_and_Surcharges__c": 0,
+            "Work_Completed__c": "Wash and Prepped Vehicle for Delivery",
+            "Work_Type__c": "Routine"
+        },
+        {
+            "attributes": {
+                "type": "Vehicle_Maintenance__c",
+                "referenceId": "Vehicle_Maintenance__cRef4"
+            },
+            "Name": "Vehicle Delivery",
+            "Vehicle__c": "@Vehicle__cRef2",
+            "Service_Center__c": "@AccountRef2",
+            "Date_Completed__c": "2022-02-12",
+            "Issue__c": "Vehicle ready for Delivery",
+            "Labor__c": 0,
+            "Parts__c": 0,
+            "Taxes_and_Surcharges__c": 0,
+            "Work_Completed__c": "Detail and inspected",
+            "Work_Type__c": "Routine"
+        }
+    ]
+}

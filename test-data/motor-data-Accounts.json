@@ -1,0 +1,52 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Fitzgerald Toyota Gaithersburg",
+            "Type": null,
+            "BillingStreet": "18707 North Frederick Ave",
+            "BillingCity": "Gaithersburg",
+            "BillingState": "MD",
+            "BillingPostalCode": "20879",
+            "BillingCountry": "US",
+            "Phone": "8777369168",
+            "AccountNumber": null,
+            "Website": "https://www.fitzgeraldtoyotagaithersburg.com/",
+            "Industry": null,
+            "Ownership": "Private",
+            "Description": null,
+            "Rating": null,
+            "Site": null,
+            "AccountSource": null,
+            "YearStarted": null,
+            "Service_Phone__c": "8774399260"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "Mercedes-Benz of Chantilly",
+            "Type": null,
+            "BillingStreet": "14841 Stonecroft Center Ct.",
+            "BillingCity": "Chantilly",
+            "BillingState": "VA",
+            "BillingPostalCode": "20151",
+            "BillingCountry": "US",
+            "Phone": "(888) 837-9454",
+            "AccountNumber": null,
+            "Website": "https://www.mercedesbenzofchantilly.com/",
+            "Industry": null,
+            "Ownership": null,
+            "Description": null,
+            "Rating": "Warm",
+            "Site": null,
+            "AccountSource": null,
+            "YearStarted": null,
+            "Service_Phone__c": "(703) 448-2289"
+        }
+    ]
+}

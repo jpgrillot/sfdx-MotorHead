@@ -1,0 +1,202 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Vehicle_Inventory_Item__c",
+                "referenceId": "Vehicle_Inventory_Item__cRef1"
+            },
+            "Name": "6.5\" Random Orbital Polisher",
+            "Collection__c": "@Warehouse__cRef1",
+            "Consumable_Quantity_Available__c": null,
+            "Description__c": "6\" Variable Speed Random Orbital Polisher",
+            "Estimated_Delivery_Date__c": null,
+            "Manufacturer__c": "Porter-Cable",
+            "Model__c": "7424",
+            "On_hand_Quantity__c": 1,
+            "Order_Number__c": null,
+            "ProductLink__c": null,
+            "Purchase_Date__c": null,
+            "Purchased_Quantity__c": 1,
+            "Reseller__c": null,
+            "Status__c": "Stocked",
+            "Type__c": "Detailing",
+            "Unit_Price__c": 150
+        },
+        {
+            "attributes": {
+                "type": "Vehicle_Inventory_Item__c",
+                "referenceId": "Vehicle_Inventory_Item__cRef2"
+            },
+            "Name": "Drill Brush Kit",
+            "Collection__c": "@Warehouse__cRef1",
+            "Consumable_Quantity_Available__c": null,
+            "Description__c": null,
+            "Estimated_Delivery_Date__c": null,
+            "Manufacturer__c": null,
+            "Model__c": null,
+            "On_hand_Quantity__c": null,
+            "Order_Number__c": null,
+            "ProductLink__c": null,
+            "Purchase_Date__c": null,
+            "Purchased_Quantity__c": 1,
+            "Reseller__c": "Amazon.com",
+            "Status__c": "Stocked",
+            "Type__c": "Detailing",
+            "Unit_Price__c": 14.99
+        },
+        {
+            "attributes": {
+                "type": "Vehicle_Inventory_Item__c",
+                "referenceId": "Vehicle_Inventory_Item__cRef3"
+            },
+            "Name": "Detailing Brushes",
+            "Collection__c": "@Warehouse__cRef1",
+            "Consumable_Quantity_Available__c": null,
+            "Description__c": "Wide brush, narrow brush with felt tip",
+            "Estimated_Delivery_Date__c": null,
+            "Manufacturer__c": "Generic",
+            "Model__c": "Set",
+            "On_hand_Quantity__c": null,
+            "Order_Number__c": null,
+            "ProductLink__c": null,
+            "Purchase_Date__c": null,
+            "Purchased_Quantity__c": 1,
+            "Reseller__c": null,
+            "Status__c": "Stocked",
+            "Type__c": "Detailing",
+            "Unit_Price__c": 4.99
+        },
+        {
+            "attributes": {
+                "type": "Vehicle_Inventory_Item__c",
+                "referenceId": "Vehicle_Inventory_Item__cRef4"
+            },
+            "Name": "Glass Cleaner Foam 19oz",
+            "Collection__c": "@Warehouse__cRef2",
+            "Consumable_Quantity_Available__c": 1,
+            "Description__c": "Available at most stores",
+            "Estimated_Delivery_Date__c": null,
+            "Manufacturer__c": "Sprayway",
+            "Model__c": "Glass Cleaner",
+            "On_hand_Quantity__c": null,
+            "Order_Number__c": null,
+            "ProductLink__c": "https://www.walmart.com/ip/Sprayway-Glass-Cleaner-Aerosol-19-Oz/19662711?fulfillmentIntent=In-store&athbdg=L1200",
+            "Purchase_Date__c": null,
+            "Purchased_Quantity__c": 1,
+            "Reseller__c": "Walmart",
+            "Status__c": "Stocked",
+            "Type__c": "Detailing",
+            "Unit_Price__c": 2.48
+        },
+        {
+            "attributes": {
+                "type": "Vehicle_Inventory_Item__c",
+                "referenceId": "Vehicle_Inventory_Item__cRef5"
+            },
+            "Name": "Ultra-Premium Glass Cleaner Foam 19oz",
+            "Collection__c": "@Warehouse__cRef2",
+            "Consumable_Quantity_Available__c": 1,
+            "Description__c": "Foaming Glass Cleaner - was originally part of a starter kit purchase",
+            "Estimated_Delivery_Date__c": null,
+            "Manufacturer__c": "Griots Garage",
+            "Model__c": "10998",
+            "On_hand_Quantity__c": null,
+            "Order_Number__c": null,
+            "ProductLink__c": "https://www.griotsgarage.com/ultra-premium-glass-cleaner-19-ounces/",
+            "Purchase_Date__c": "2022-02-21",
+            "Purchased_Quantity__c": 1,
+            "Reseller__c": "Griots Garage",
+            "Status__c": "Stocked",
+            "Type__c": "Detailing",
+            "Unit_Price__c": 6.49
+        },
+        {
+            "attributes": {
+                "type": "Vehicle_Inventory_Item__c",
+                "referenceId": "Vehicle_Inventory_Item__cRef6"
+            },
+            "Name": "Light Abrasive Polish",
+            "Collection__c": "@Warehouse__cRef3",
+            "Consumable_Quantity_Available__c": 0.5,
+            "Description__c": "Super Swirl Remover \r\nLight Abrasive Polish",
+            "Estimated_Delivery_Date__c": null,
+            "Manufacturer__c": "Poorboys World",
+            "Model__c": "SSR-1",
+            "On_hand_Quantity__c": null,
+            "Order_Number__c": null,
+            "ProductLink__c": "https://www.amazon.com/Poorboys-World-SSR-1-Super-Remover/dp/B07RLT1LGP/ref=sr_1_1?crid=1TP26X3CDBKQ3&keywords=Poorboys+World+SSR-1&qid=1658960660&sprefix=poorboys+world+ssr-1%2Caps%2C58&sr=8-1",
+            "Purchase_Date__c": null,
+            "Purchased_Quantity__c": 1,
+            "Reseller__c": "Amazon.com",
+            "Status__c": "Stocked",
+            "Type__c": "Detailing",
+            "Unit_Price__c": 19.99
+        },
+        {
+            "attributes": {
+                "type": "Vehicle_Inventory_Item__c",
+                "referenceId": "Vehicle_Inventory_Item__cRef7"
+            },
+            "Name": "White 6.5 Polishing Pad",
+            "Collection__c": "@Warehouse__cRef3",
+            "Consumable_Quantity_Available__c": null,
+            "Description__c": "Forgot the brand but it is high quality\r\nLight-cutting Pad",
+            "Estimated_Delivery_Date__c": null,
+            "Manufacturer__c": null,
+            "Model__c": null,
+            "On_hand_Quantity__c": null,
+            "Order_Number__c": null,
+            "ProductLink__c": null,
+            "Purchase_Date__c": null,
+            "Purchased_Quantity__c": 1,
+            "Reseller__c": null,
+            "Status__c": "Stocked",
+            "Type__c": "Detailing",
+            "Unit_Price__c": 12.99
+        },
+        {
+            "attributes": {
+                "type": "Vehicle_Inventory_Item__c",
+                "referenceId": "Vehicle_Inventory_Item__cRef8"
+            },
+            "Name": "Gray 6.5 Wax Pad",
+            "Collection__c": "@Warehouse__cRef3",
+            "Consumable_Quantity_Available__c": null,
+            "Description__c": "Forgot Brand but high-qualty\r\nNon-cutting foam pad for Waxes/Sealants",
+            "Estimated_Delivery_Date__c": null,
+            "Manufacturer__c": null,
+            "Model__c": null,
+            "On_hand_Quantity__c": null,
+            "Order_Number__c": null,
+            "ProductLink__c": null,
+            "Purchase_Date__c": null,
+            "Purchased_Quantity__c": null,
+            "Reseller__c": null,
+            "Status__c": "Researching",
+            "Type__c": "Detailing",
+            "Unit_Price__c": null
+        },
+        {
+            "attributes": {
+                "type": "Vehicle_Inventory_Item__c",
+                "referenceId": "Vehicle_Inventory_Item__cRef9"
+            },
+            "Name": "Polish with Sealant 16oz",
+            "Collection__c": "@Warehouse__cRef3",
+            "Consumable_Quantity_Available__c": 0.5,
+            "Description__c": "All in one polish with Sealant",
+            "Estimated_Delivery_Date__c": null,
+            "Manufacturer__c": "Poorboys World",
+            "Model__c": "PB-PWS16",
+            "On_hand_Quantity__c": null,
+            "Order_Number__c": null,
+            "ProductLink__c": "https://poorboysworld.com/polish-with-sealant-16oz.html",
+            "Purchase_Date__c": null,
+            "Purchased_Quantity__c": 1,
+            "Reseller__c": "Poorboys World",
+            "Status__c": "Stocked",
+            "Type__c": "Detailing",
+            "Unit_Price__c": 22.95
+        }
+    ]
+}

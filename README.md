@@ -12,9 +12,16 @@ The `sfdx-project.json` file contains useful configuration information for your 
 
 ## Develop on the Project
 
-  * Deploy changes
-  * Assign Permission Set: sfdx force:user:permset:assign -n MotorHeadApp -u sfdx-MotorHead
-  
+  * Create the Scratch Org
+  * Push the Source to the Scratch Org
+  * Assign Permission Set: sfdx force:user:permset:assign -n MotorHeadApp -u sfdxMotorHead
+  * Deploy the Test Data: sfdx force:data:tree:import -u sfdxMotorHead -p test-data/motor-data-plan.json
+  * Run the test-data/test-data-fix.apex file to fix the Test Data issues
+    * Open the apex file, open the command prompt, and search "SFDX: Execute Anonymous Apex with Editor Contents"
+  * Run the Manual steps outlined in scripts/manual/NewOrg.md
+
+### Useful Info
+  * This query can help establish whether your flows are covered by your Apex Tests: sfdx force:data:soql:query --query "SELECT Id, ApexTestClassId, TestMethodName, FlowVersionId, NumElementsCovered, NumElementsNotCovered FROM FlowTestCoverage" --usetoolingapi -u sfdxMotorHead  
 
 ## Read All About It
 

@@ -1,0 +1,52 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Vehicle__c",
+                "referenceId": "Vehicle__cRef1"
+            },
+            "Name": "Taco",
+            "APR__c": 1.9,
+            "Acquisition_Date__c": "2020-12-26",
+            "Acquisition_Type__c": "Loan",
+            "Drivetrain__c": "4WD",
+            "Engine__c": "3.5L V6 w/ Dual VVT-i",
+            "Exterior_Color__c": "Magnetic Gray Metallic",
+            "Interior_Color__c": "Black",
+            "Make__c": "Toyota",
+            "Model__c": "Tacoma",
+            "Options__c": "Hard Tonneau Cover (cover + household power outlet in bed), All Weather Mats + sill protector, Bed Light, 5\" Chrome Step bar",
+            "Packages__c": null,
+            "Purchase_Price__c": 42000,
+            "Specifications__c": "<ul><li>276 hp / 265 lb-ft</li><li>4WD w/ 2sp Transfer / Auto LSD</li><li>Towing Hitch, Engine Oil/Power Steering Cooler, 130amp Alternator, 4/7pin connector, Trailer Sway control</li><li>Safety Sense: Pre-collision detection, Pedestrian Detection, Dynamic Radar Cruise Control, Lane Departure Alert, Automatic high-beams</li><li>Backup camera w/ cross traffic alert</li><li>18in Polished Wheels</li><li>LED Headlamps w/ DRL, Fog Lights</li><li>Smart Key hands-free</li><li>Sunroof, Leather Seats, Dual Zone Auto Climate Control, JBL Audio w/ Navigation, Qi Wireless Charging</li></ul>",
+            "Term__c": 60,
+            "Transmission__c": "6 ECT",
+            "VIN__c": "3TMGZ5AN0MM000003",
+            "Year__c": "2021"
+        },
+        {
+            "attributes": {
+                "type": "Vehicle__c",
+                "referenceId": "Vehicle__cRef2"
+            },
+            "Name": "Blueberry",
+            "APR__c": 6.39,
+            "Acquisition_Date__c": "2022-02-12",
+            "Acquisition_Type__c": "Loan",
+            "Drivetrain__c": "AWD",
+            "Engine__c": "2.0L Turbo I-4",
+            "Exterior_Color__c": "Denim Blue Metallic",
+            "Interior_Color__c": "Macchiato Beige",
+            "Make__c": "Mercedes-Benz",
+            "Model__c": "GLB250 4MATIC",
+            "Options__c": "Panorama Roof, Heated Front Seats, Heated Steering Wheel, 64color LED Ambient Lighting, Garage Door Opener, All Weather Floor Mats, Reversible Cargo Mat",
+            "Packages__c": "Premium Package, Multimedia Package, Driver Assistance Package",
+            "Purchase_Price__c": 42000,
+            "Specifications__c": "<p>221 hp / 258 lb-ft</p><p>15.9Gal Tank</p><p>Start/Stop</p><p>MBUX w/ Android Auto &amp; Apple CarPlay</p><p>3 position memory front seats</p><p>Dual Zone Automatic Climate Control</p><p>18&quot; Twin Spoke Wheels</p><p>Spiral Look Trim</p><p><br></p>",
+            "Term__c": 84,
+            "Transmission__c": "8DCT",
+            "VIN__c": "W1N4M4HB7NW000009",
+            "Year__c": "2022"
+        }
+    ]
+}

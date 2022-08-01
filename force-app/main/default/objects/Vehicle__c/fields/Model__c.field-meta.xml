@@ -5,7 +5,8 @@
     <externalId>false</externalId>
     <label>Model</label>
     <length>120</length>
-    <required>false</required>
+    <required>true</required>
+    <trackFeedHistory>false</trackFeedHistory>
     <trackTrending>false</trackTrending>
     <type>Text</type>
     <unique>false</unique>
