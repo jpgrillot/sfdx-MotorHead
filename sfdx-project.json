@@ -5,7 +5,7 @@
             "default": true,
             "package": "MotorHead",
             "versionName": "August 22 Release - Experience Improvements",
-            "versionNumber": "1.1.0.NEXT"
+            "versionNumber": "1.2.0.NEXT"
         }
     ],
     "name": "MotorHead",
@@ -17,6 +17,8 @@
         "Motorhead@0.1-1": "04t8Z000000BnYUQA0",
         "MotorHead@1.0.0-1": "04t8Z000000BnYZQA0",
         "MotorHead@1.0.0-2": "04t8Z000000BnYeQAK",
-        "MotorHead@1.1.0-1": "04t8Z000000BnaBQAS"
+        "MotorHead@1.1.0-1": "04t8Z000000BnaBQAS",
+        "MotorHead@1.1.0-2": "04t8Z000000BnaGQAS",
+        "MotorHead@1.2.0-1": "04t8Z000000BnaLQAS"
     }
 }
